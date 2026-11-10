@@ -8,18 +8,18 @@ Fă-le cu telefonul, pe orizontală, ziua, cu toate luminile aprinse. Mi le trim
 
 ---
 
-## 1. TRAVELMINIT.RO (prioritatea 1)
+## 1. TRAVELMINIT.RO (ești deja listat, verificat pe 10 nov)
 
-**Unde:** https://travelminit.ro/inregistrare
-**Cost:** înregistrarea e gratuită. Plătești comision doar la rezervările finalizate, procentul îl afli de la ei la semnare.
-**De ce:** acolo plătesc românii cu cardurile de vacanță (Edenred, Pluxee/Sodexo, Up). Tu accepți deja vouchere, iar The One e listată acolo.
+Anunțul tău: https://travelminit.ro/cabana-visul-muntilor-belis
+- Notă 9,5 din doar **3 recenzii**, 56 de poze, prețuri de la 4.000 RON
+- Anunțul apare automat și pe szallas.hu, noclegi.pl, hotely.cz și revngo.com
+- [Corecție] Pagina Cabanei The One de pe Travelminit dă 404, deci ei **nu** mai sunt acolo.
 
-**Formular:**
-- Numele unității: `Cabana Visul Munților Beliș`
-- Țară: România
-- Tip: Cabană
-- Clasificare: completezi ce scrie pe certificatul tău de clasificare
-- E-mail, nume, telefon: ale tale
+**Ce corectezi din admin.travelminit.ro:**
+- Prima poză: `01-cabana-exterior-iarna.jpg`
+- Facilități: anunțul arată doar 7 servicii. Adaugă jacuzzi, șemineu, piscină sezonieră, terasă, foișor/grătar, masă de tenis și bucătărie utilată.
+- Descriere: înlocuiește-o cu textul de mai jos.
+- Recenzii: cere-le fiecărui oaspete venit prin Travelminit (vezi mesajul de la Booking, punctul 3).
 
 **Titlu scurt:**
 Cabană întreagă pentru 14 persoane, cu saună, ciubăr și jacuzzi, la 55 km de Cluj
@@ -108,6 +108,6 @@ Saranis are articol acolo din 2023. Platforma lor de rezervări (Travlocals) spu
 ## Ordine recomandată
 1. Booking: corecturi (azi, 15 min)
 2. TopCabane: gratuit (azi, 5 min)
-3. Travelminit: înregistrare (azi sau mâine; ai nevoie de certificatul de clasificare)
+3. Travelminit: actualizează poza principală, facilitățile și descrierea
 4. Poze noi cu băile și sauna (în weekendul ăsta)
 5. Wildventure: mesaj (doar dacă e ieftin)
