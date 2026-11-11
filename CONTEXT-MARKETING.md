@@ -43,7 +43,9 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 ## Unelte
 - Viralio: Veo 3.1 Fast la 1080p costă 4–6 credite pe clip de 8 s. Vocea în română sună natural. WAN 3.0 pe Viralio costă 2–4 credite/s (scump).
 - RunComfy: WAN 3.0 Prime reference-to-video, ~0,67 $ pe clip la 720p (folosit la MAF BETON). Vocea în română netestată.
-- Windsor: publică pe Instagram (video din URL public), citește TikTok, Meta Ads, Google Business. Nu poate posta pe TikTok și nu vede DM-urile.
+- Windsor: **Claude publică singur** pe Instagram (postare, carusel, story, reel din URL public), pe pagina de Facebook (`facebook_organic`, postare cu poză) și pe Google Business (postare locală). Gestionează și reclamele Meta. Nu poate posta pe TikTok, în grupurile de Facebook, pe WhatsApp sau pe OLX și nu vede DM-urile.
+- TikTok prin Composio: nu are conectare gata făcută; ar cere o aplicație de dezvoltator TikTok verificată (altfel postările ies doar private), iar API-ul nu poate alege sunete.
+- 11 nov: publicate de Claude postarea last minute 13–15 (Instagram feed + story, pagina de Facebook, Google Business).
 
 ## Unde sunt fișierele
 - Reel-urile v2 și cele noi: `2026-11/reels-v2/` (ramura `media-refaceri-nov11`).
