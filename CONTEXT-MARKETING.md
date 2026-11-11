@@ -31,7 +31,8 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - **Nu-i plac clipurile din `2026-11/reels-v2/`**: arată a AI / fals și au ritm și sunet nepotrivite (poze animate lent, sunet de foc).
 - Vrea material real, cu ritm. Nu mai genera clipuri cu gazda AI sau cu oameni generați fără să întrebi întâi.
 - Postarea programată a lui R4 pe Instagram a fost anulată. Reclamele R4, N1 și R2 sunt oprite; rulează doar R1.
-- Pentru 13–15 nov rămâne același preț, 4.500 lei, fără reducere de ultim moment.
+- 13–15 nov: last minute la 4.000 lei (decizia proprietarului, 11 nov).
+- **La Beliș nu a ninș încă (11 nov): nu folosi poze cu zăpadă pentru weekendurile din noiembrie.** Poze reale de toamnă în `2026-11/poze-reale/toamna/` (foișor cu grătar, dronă, terasă, fațadă).
 
 ## Gazda video
 - Rămâne **tânăra cu pulover crem și păr ondulat lăsat liber**, din `2026-11/frames/gazda.jpg` (decizia proprietarului, 11 nov).
