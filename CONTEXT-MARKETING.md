@@ -11,7 +11,8 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - Telefon / WhatsApp: 0733 117 686 (`wa.me/40733117686`).
 
 ## Calendar (la 11 nov)
-- Libere: 20–22 nov, 11–13 dec, 18–20 dec.
+- **Prioritare (confirmat de proprietar, 11 nov): 13–15 nov și 20–22 nov.**
+- Libere după, mai puțin prioritare: 11–13 dec, 18–20 dec.
 - Ocupate: 27–29 nov, Crăciun, Revelion, 3–6 ian.
 - Ianuarie–februarie după 6 ian: de confirmat.
 
@@ -25,6 +26,12 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - Link în bio: 0 click-uri în 30 de zile.
 - Prețuri diferite: site 5.000 lei weekend, OLX 2.000 lei/noapte (ambele greșite).
 - Butonul „REZERVĂ” de pe site duce la hotelmix.ro.
+
+## Preferințele proprietarului despre video (11 nov)
+- **Nu-i plac clipurile din `2026-11/reels-v2/`**: arată a AI / fals și au ritm și sunet nepotrivite (poze animate lent, sunet de foc).
+- Vrea material real, cu ritm. Nu mai genera clipuri cu gazda AI sau cu oameni generați fără să întrebi întâi.
+- Postarea programată a lui R4 pe Instagram a fost anulată. Reclamele R4, N1 și R2 sunt oprite; rulează doar R1.
+- Pentru 13–15 nov rămâne același preț, 4.500 lei, fără reducere de ultim moment.
 
 ## Gazda video
 - Rămâne **tânăra cu pulover crem și păr ondulat lăsat liber**, din `2026-11/frames/gazda.jpg` (decizia proprietarului, 11 nov).
