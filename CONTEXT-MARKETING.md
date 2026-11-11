@@ -37,6 +37,10 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 ## Regula pentru postări (11 nov)
 - **Proprietarul vrea ca toate postările să aibă sunet.** Postările cu poză și story-urile publicate prin Windsor ies fără muzică (API-ul nu are biblioteca de muzică Instagram). Publică reel-uri video cu muzica pusă în fișier; muzica din `2026-11/stories/*.mp4` e cea folosită până acum.
 
+## Google Business
+- **Fără număr de telefon în textul sau pe imaginea postărilor**: Google le respinge (2 postări respinse pe 11 nov). Folosește butonul CALL, care pune numărul automat. Imaginea pentru Google: `campanie-lastminute/google_13_15_nov.jpg` (fără număr).
+- Windsor poate crea postări pe Google, dar nu le poate modifica (eroare 403).
+
 ## Gazda video
 - Rămâne **tânăra cu pulover crem și păr ondulat lăsat liber**, din `2026-11/frames/gazda.jpg` (decizia proprietarului, 11 nov).
 - Imaginea de start pentru Veo: `https://raw.githubusercontent.com/florinmihaiopris-jpg/cabana-visul-muntilor-media/main/2026-11/frames/gazda.jpg`
