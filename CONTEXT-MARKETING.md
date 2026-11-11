@@ -34,6 +34,9 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - 13–15 nov: last minute la 4.000 lei (decizia proprietarului, 11 nov).
 - **La Beliș nu a nins încă (11 nov): nu folosi poze cu zăpadă pentru weekendurile din noiembrie.** Poze reale de toamnă în `2026-11/poze-reale/toamna/` (foișor cu grătar, dronă, terasă, fațadă).
 
+## Regula pentru postări (11 nov)
+- **Proprietarul vrea ca toate postările să aibă sunet.** Postările cu poză și story-urile publicate prin Windsor ies fără muzică (API-ul nu are biblioteca de muzică Instagram). Publică reel-uri video cu muzica pusă în fișier; muzica din `2026-11/stories/*.mp4` e cea folosită până acum.
+
 ## Gazda video
 - Rămâne **tânăra cu pulover crem și păr ondulat lăsat liber**, din `2026-11/frames/gazda.jpg` (decizia proprietarului, 11 nov).
 - Imaginea de start pentru Veo: `https://raw.githubusercontent.com/florinmihaiopris-jpg/cabana-visul-muntilor-media/main/2026-11/frames/gazda.jpg`
