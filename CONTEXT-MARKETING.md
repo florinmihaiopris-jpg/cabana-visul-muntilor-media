@@ -35,6 +35,7 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - **La Beliș nu a nins încă (11 nov): nu folosi poze cu zăpadă pentru weekendurile din noiembrie.** Poze reale de toamnă în `2026-11/poze-reale/toamna/` (foișor cu grătar, dronă, terasă, fațadă).
 
 ## Regula pentru postări (11 nov)
+- **Până se închiriază 13–15 nov, nu se publică nimic altceva în afară de oferta last minute de 3.500 lei** (decizia proprietarului). Programările vechi din sesiunea arhivată „marketing cabana” sunt dezactivate (17 din 19); active rămân doar cele de pe Google din 21 nov (preț în săptămână) și 5 dec (ianuarie–februarie), legate de sesiunea arhivată.
 - **Proprietarul vrea ca toate postările să aibă sunet.** Postările cu poză și story-urile publicate prin Windsor ies fără muzică (API-ul nu are biblioteca de muzică Instagram). Publică reel-uri video cu muzica pusă în fișier; muzica din `2026-11/stories/*.mp4` e cea folosită până acum.
 
 ## Google Business
