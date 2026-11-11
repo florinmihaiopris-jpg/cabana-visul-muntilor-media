@@ -11,6 +11,8 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - Telefon / WhatsApp: 0733 117 686 (`wa.me/40733117686`).
 
 ## Calendar (la 11 nov)
+- **21–22 nov (sâmbătă–duminică) REZERVAT pe Booking, 11 nov seara (10 adulți, 1 noapte).** Vineri 20 nov a rămas liberă ca noapte singură; proprietarul îi propune clientei extinderea. 20–22 nu se mai promovează ca weekend liber.
+- De pus pe Booking: minimum 2 nopți la weekend. Weekendurile vândute direct trebuie blocate imediat în Booking.
 - **Prioritare (confirmat de proprietar, 11 nov): 13–15 nov și 20–22 nov.**
 - Libere după, mai puțin prioritare: 11–13 dec, 18–20 dec.
 - Ocupate: 27–29 nov, Crăciun, Revelion, 3–6 ian.
