@@ -27,3 +27,7 @@ La „cât costă?” sau „câți încap?”, răspunde cu **„Răspunde cu v
 - weekend vineri–duminică: 4.500 lei, cu o zi de saună și ciubăr inclusă;
 - în săptămână: 1.500 lei/noapte, minimum 2 nopți;
 - maximum 14 persoane.
+
+## Carusel last minute 13–15 nov (11 nov)
+Fișierele: `campanie-lastminute/tiktok-carusel/1.jpg` … `5.jpg`, în ordine.
+Caption: Weekendul acesta e liber 👀 Cabană întreagă pentru gașca ta, 13–15 noiembrie, 4.000 lei. Cine vine? #cabana #cabanacluj #lastminute #weekendcuprietenii #belis #apuseni
