@@ -11,7 +11,7 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - Telefon / WhatsApp: 0733 117 686 (`wa.me/40733117686`).
 
 ## Calendar (la 11 nov)
-- **6–11 ian 2027 REZERVAT (12 nov, 5 nopți).** Împreună cu 3–6 ian: 3–11 ian ocupat. Sursa: de confirmat cu proprietarul.
+- **6–11 ian 2027 REZERVAT (12 nov, 5 nopți).** Împreună cu 3–6 ian: 3–11 ian ocupat. Sursa: **reclama Meta R1 (WhatsApp)**. R1 a adus deja 2 rezervări (3–6 ian și 6–11 ian) pentru ~230 lei cheltuiți în total (8–12 nov). R1 rămâne reclama principală.
 - **21–22 nov (sâmbătă–duminică) REZERVAT pe Booking, 11 nov seara (10 adulți, 1 noapte).** Clienta a luat și vinerea 20 (la preț redus) → **20–22 nov ocupat complet** (12 nov). 20–22 nu se mai promovează ca weekend liber.
 - **Booking (setat 12 nov):** planul tarifar „inchiriere2” fără minim (era „sejur minim 3 nopți”); în calendar, sosiri vineri/sâmbătă = minim 2 nopți, restul zilelor 1 noapte. Testat și funcționează. Pe Airbnb trebuie setat separat. Weekendurile vândute direct trebuie blocate imediat în Booking.
 - 4–5 dec rezervat pe Airbnb; 30 nov–1 dec închis în Booking.
