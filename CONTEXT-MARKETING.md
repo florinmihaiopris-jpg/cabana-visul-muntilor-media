@@ -68,3 +68,7 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 ## Cereri de Revelion (14 nov)
 - Majoritatea mesajelor din reclamă întreabă de Revelion (ocupat). Răspuns-șablon trimis: Revelion ocupat → propune 11–13 / 18–20 dec (4.500 lei) + listă de așteptare pentru Revelion.
 - Idee pentru Revelion 2027–2028: preț mai mare, rezervări din primăvară cu avans.
+
+## Stare 14 nov
+- Activă doar reclama R1 (40 lei/zi, text general, până pe 30 nov). Proprietarul vrea rotație de reclame, dar a respins clipurile din poze (`2026-11/reclame-noi/`, slabe). Pregătește filmări noi; reclamele noi se fac din ele.
+- În așteptare: date libere după 11 ian, acord pentru testul Moldova (~140 lei), ștergerea postării IG din 11 nov 15:30 (20–22 liber).
