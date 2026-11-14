@@ -64,3 +64,7 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - Planul nou: https://claude.ai/artifact/Rf8cDYWf2B4T5S7TE3tbx6
 - Campania „3 weekenduri libere”: https://claude.ai/artifact/SmxE9LcSYdGw2EQoihseSe
 - Ghidul de listări: https://claude.ai/artifact/XqDAHeNSkGxq45XoePMZ6R
+
+## Cereri de Revelion (14 nov)
+- Majoritatea mesajelor din reclamă întreabă de Revelion (ocupat). Răspuns-șablon trimis: Revelion ocupat → propune 11–13 / 18–20 dec (4.500 lei) + listă de așteptare pentru Revelion.
+- Idee pentru Revelion 2027–2028: preț mai mare, rezervări din primăvară cu avans.
