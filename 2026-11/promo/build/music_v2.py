@@ -1,9 +1,9 @@
 """Muzică originală pentru promo v2, sintetizată integral în cod (fără mostre, fără melodii existente).
 
-Rulare:  python3 music_v2.py <iesire.wav> [durata_secunde]
+Rulare:  python3 music_v2.py <iesire.wav> [durata_secunde] [masura_de_zi]
 Chitară ciupită (Karplus-Strong), pad cald, bas, clopoței și percuție ușoară; Re major, 100 bpm.
-Structură după montaj: 0–7 s intro lejer (sub replica gazdei), 7–27 s noapte (rar, aerisit),
-27–49 s zi (plin, cu ritm), 49 s–final acord care se stinge.
+Structură după montaj: intro lejer (sub replica gazdei), noapte (rar, aerisit) de la 7 s până la
+măsura de zi, apoi zi (plin, cu ritm) și un acord final care se stinge.
 """
 import sys
 import wave
@@ -14,6 +14,7 @@ from scipy.signal import butter, fftconvolve, lfilter
 SR = 44100
 OUT = sys.argv[1]
 DUR = float(sys.argv[2]) if len(sys.argv) > 2 else 53.6
+DAY_BAR = int(sys.argv[3]) if len(sys.argv) > 3 else 11   # măsura la care începe partea de zi
 BEAT = 0.6                      # 100 bpm
 BAR = 4 * BEAT
 N = int(SR * (DUR + 3))
@@ -108,8 +109,8 @@ for bar in range(BARS):
     last = bar >= BARS - 2                      # ultimele două măsuri: acord final pe Re
     ch = "D" if last else PROG[bar % 4]
     tones = CHORDS[ch]
-    night = 3 <= bar < 11                       # ~7–27 s
-    day = bar >= 11 and not last                # ~27–49 s
+    night = 3 <= bar < DAY_BAR                       # ~7–27 s
+    day = bar >= DAY_BAR and not last                # ~27–49 s
     intro = bar < 3
 
     add(pad([NOTE[x] for x in tones[1:4]], BAR + 0.8), t0, gain=0.13 if night else 0.09)

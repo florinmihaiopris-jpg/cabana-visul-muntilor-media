@@ -57,7 +57,9 @@ c_pietre = caption("c_pietre.png", [("Pietrele Albe", 64, WH), ("în apropiere",
 
 clip(G("G1_semineu.mp4"), 0.9, 4.0)                       # 0.0  gazda la șemineu (replica)
 clip(G("G2_plasa_seara.mp4"), 0.2, 3.0, speed=1.15)       # 4.0  se întinde pe plasă
-keep(7.0, 20.0)                                           # 7.0  stele, lună, dimineață (material real/stock)
+clip(DRAFT, 12.4, 2.0)                                    # 7.0  luna răsare, scurt
+keep(7.0, 5.0)                                            # 9.0  cerul înstelat văzut din plasă
+keep(17.0, 10.0)                                          # 14.0 dâre de stele, apoi dimineața
 clip(G("G3_plasa_dimineata.mp4"), 1.3, 3.0)               # 27.0 se trezește pe plasă
 keep(30.0, 4.0)                                           # 30.0 terasa
 clip(os.path.join(P, "materiale", "cascada_valul_miresei.mp4"), 0.0, 2.2, ov=c_cascada)  # 34.0 cascada reală
@@ -75,7 +77,7 @@ run(["-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", silent])
 # Sunet: muzică originală sintetizată de music_v2.py (nicio melodie existentă), coborâtă sub
 # replica gazdei (G1 0.9–3.4 s -> 0–2.5 s în montaj).
 music = os.path.join(W, "muzica_v2.wav")
-subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "music_v2.py"), music, "53.6"], check=True)
+subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "music_v2.py"), music, "50.6", "10"], check=True)
 out = os.path.join(P, "promo_v2.mp4")
 af = ("[1:a]volume='0.85*if(lt(t,2.6),0.35,if(lt(t,3.4),0.35+0.65*(t-2.6)/0.8,1))':eval=frame[m];"
       "[2:a]atrim=0.9:3.4,asetpts=PTS-STARTPTS,highpass=f=90,dynaudnorm=f=150:g=7,volume=2.2,"
