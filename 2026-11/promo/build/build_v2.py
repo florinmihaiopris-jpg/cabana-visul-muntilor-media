@@ -57,15 +57,15 @@ c_pietre = caption("c_pietre.png", [("Pietrele Albe", 64, WH), ("în apropiere",
 
 clip(G("G1_semineu.mp4"), 0.9, 4.0)                       # 0.0  gazda la șemineu (replica)
 clip(G("G2_plasa_seara.mp4"), 0.2, 3.0, speed=1.15)       # 4.0  se întinde pe plasă
-keep(7.0, 19.0)                                           # 7.0  stele, lună, dimineață (material real/stock)
-clip(G("G3_plasa_dimineata.mp4"), 0.3, 3.0)               # 26.0 se trezește pe plasă
-keep(29.0, 4.0)                                           # 29.0 terasa
-clip(os.path.join(P, "materiale", "cascada_valul_miresei.mp4"), 0.0, 2.2, ov=c_cascada)  # 33.0 cascada reală
-clip(G("G4_cascada.mp4"), 0.3, 2.5, ov=c_cascada)         # 35.2 gazda la cascadă
-clip(G("G5_pietrele_albe.mp4"), 3.6, 3.0, ov=c_pietre)    # 37.7 gazda la Pietrele Albe
-keep(40.7, 3.0)                                           # 40.7 Pietrele Albe (poză reală)
-clip(G("G6_cabana.mp4"), 0.3, 2.2, speed=1.3)             # 43.7 se întoarce la cabană
-keep(45.9, 7.7)                                           # 45.9 final
+keep(7.0, 20.0)                                           # 7.0  stele, lună, dimineață (material real/stock)
+clip(G("G3_plasa_dimineata.mp4"), 1.3, 3.0)               # 27.0 se trezește pe plasă
+keep(30.0, 4.0)                                           # 30.0 terasa
+clip(os.path.join(P, "materiale", "cascada_valul_miresei.mp4"), 0.0, 2.2, ov=c_cascada)  # 34.0 cascada reală
+clip(G("G4_cascada.mp4"), 0.3, 2.5, ov=c_cascada)         # 36.2 gazda la cascadă
+clip(G("G5_pietrele_albe.mp4"), 3.6, 3.0, ov=c_pietre)    # 38.7 gazda la Pietrele Albe
+keep(41.7, 3.0)                                           # 41.7 Pietrele Albe (poză reală)
+clip(G("G6_cabana.mp4"), 0.3, 2.2, speed=1.3)             # 44.7 se întoarce la cabană
+keep(46.9, 6.7)                                           # 46.9 final
 
 lst = os.path.join(W, "list.txt")
 open(lst, "w").write("".join(f"file '{s}'\n" for s in segs))
