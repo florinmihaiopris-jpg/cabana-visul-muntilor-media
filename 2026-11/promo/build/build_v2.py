@@ -72,11 +72,14 @@ open(lst, "w").write("".join(f"file '{s}'\n" for s in segs))
 silent = os.path.join(W, "video.mp4")
 run(["-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", silent])
 
-# Sunet: muzica din schiță, coborâtă sub replica gazdei (G1 0.9–3.4 s -> 0–2.5 s în montaj).
+# Sunet: muzică originală sintetizată de music_v2.py (nicio melodie existentă), coborâtă sub
+# replica gazdei (G1 0.9–3.4 s -> 0–2.5 s în montaj).
+music = os.path.join(W, "muzica_v2.wav")
+subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "music_v2.py"), music, "53.6"], check=True)
 out = os.path.join(P, "promo_v2.mp4")
-af = ("[1:a]volume='if(lt(t,2.6),0.35,if(lt(t,3.4),0.35+0.65*(t-2.6)/0.8,1))':eval=frame[m];"
+af = ("[1:a]volume='0.85*if(lt(t,2.6),0.35,if(lt(t,3.4),0.35+0.65*(t-2.6)/0.8,1))':eval=frame[m];"
       "[2:a]atrim=0.9:3.4,asetpts=PTS-STARTPTS,highpass=f=90,dynaudnorm=f=150:g=7,volume=2.2,"
-      "afade=t=in:d=0.08,afade=t=out:st=2.2:d=0.3[v];[m][v]amix=inputs=2:duration=first:normalize=0[a]")
-run(["-i", silent, "-i", DRAFT, "-i", G("G1_semineu.mp4"), "-filter_complex", af, "-map", "0:v", "-map", "[a]",
+      "afade=t=in:d=0.08,afade=t=out:st=2.2:d=0.3[v];[m][v]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.9[a]")
+run(["-i", silent, "-i", music, "-i", G("G1_semineu.mp4"), "-filter_complex", af, "-map", "0:v", "-map", "[a]",
      "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-shortest", out])
 print(out)
