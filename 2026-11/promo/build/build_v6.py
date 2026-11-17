@@ -76,6 +76,10 @@ WH, AC = (255, 255, 255), (242, 196, 109)
 t_cut = lambda k: sum(s[1] for s in SHOTS[:k]) * B          # începutul cadrului k
 if V == "B":
     m1 = [("LIBER 11–13 DECEMBRIE", 84, AC, FB), ("cabană întreagă · 14 persoane", 46, WH, FS)]
+elif V == "C":
+    m1 = [("Revelionul e dat.", 84, WH, FB), ("11–13 dec e LIBER.", 84, AC, FB)]
+elif V == "D":
+    m1 = [("≈ 320 lei de persoană", 80, AC, FB), ("weekend cu saună + ciubăr", 50, WH, FS)]
 else:
     m1 = [("Ai dormi deasupra", 84, WH, FB), ("livingului?", 84, AC, FB)]
 MSGS = [(0.15, t_cut(2) - 0.15, m1),
