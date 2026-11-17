@@ -116,9 +116,13 @@ for n in range(int(math.ceil(T * FPS))):
             img = layer(lines, al, dys)
     img.save(os.path.join(tdir, f"{n:04d}.png"), compress_level=1)
 
+# gradient discret jos, ca textul alb să se citească și pe cer deschis
+g = np.zeros((1920, 1080, 4), np.uint8); yy = np.arange(1920)[:, None]
+g[..., 3] = (np.clip((yy - 950) / 970, 0, 1) ** 1.6 * 170).astype(np.uint8).repeat(1080, 1)
+grad = os.path.join(W, "grad.png"); Image.fromarray(g, "RGBA").save(grad)
 vid = os.path.join(W, "video.mp4")
-run(["-i", body, "-framerate", str(FPS), "-i", os.path.join(tdir, "%04d.png"), "-filter_complex",
-     "[0][1]overlay=0:0:format=auto,format=yuv420p"] + ENC + [vid])
+run(["-i", body, "-loop", "1", "-i", grad, "-framerate", str(FPS), "-i", os.path.join(tdir, "%04d.png"), "-filter_complex",
+     "[0][1]overlay=0:0:format=auto:shortest=1[g];[g][2]overlay=0:0:format=auto,format=yuv420p"] + ENC + [vid])
 
 # --- muzica aliniată pe prima bătaie ---
 run(["-i", vid, "-ss", f"{phase:.3f}", "-i", MUSIC, "-filter_complex",
