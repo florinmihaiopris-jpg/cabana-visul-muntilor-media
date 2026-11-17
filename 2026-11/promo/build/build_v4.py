@@ -78,7 +78,7 @@ clip(os.path.join(P, "materiale", "cascada_valul_miresei.mp4"), 0.0, 2.2, ov=c_c
 clip(N("V4_cascada.mp4"), 0.3, 2.5, ov=c_cascada)         # gazda la cascadă
 clip(N("V5_pietrele_albe.mp4"), 0.8, 3.0, ov=c_pietre)    # gazda la Pietrele Albe
 keep(41.7, 3.0)                                           # Pietrele Albe (poză reală)
-clip(N("V6_cabana.mp4"), 3.6, 2.2)                        # se întoarce la cabană
+clip(N("V6_cabana.mp4"), 0.3, 2.2)                        # se întoarce la cabană
 keep(46.9, 6.7)                                           # cafea + final
 
 lst = os.path.join(W, "list.txt")
