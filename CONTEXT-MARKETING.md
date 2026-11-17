@@ -72,3 +72,12 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 ## Stare 14 nov
 - Activă doar reclama R1 (40 lei/zi, text general, până pe 30 nov). Proprietarul vrea rotație de reclame, dar a respins clipurile din poze (`2026-11/reclame-noi/`, slabe). Pregătește filmări noi; reclamele noi se fac din ele.
 - În așteptare: date libere după 11 ian, acord pentru testul Moldova (~140 lei), ștergerea postării IG din 11 nov 15:30 (20–22 liber).
+
+## Test reclame video v6 (pornit 17 nov 2026)
+- Clip nou `2026-11/promo/promo_v6_*.mp4` (19 s): poze reale animate cu mișcare de cameră (Kling 3.0 Pro pe RunComfy) + un cadru AI cu prieteni pe plasă. Gazda AI, șemineul cu ciorapi, zăpada și piscina au fost scoase (utilizatorul le-a respins). Montaj: `2026-11/promo/build/build_v6.py`.
+- În campania „Mesaje DM decembrie”, 3 seturi noi, copii ale setului R1 (același public), 15 lei/zi fiecare, cu R1 (40 lei/zi) păstrată ca reper:
+  - TEST v6 B „LIBER 11–13 dec” – set 120252336056530515, reclamă 120252336058300515
+  - TEST v6 C „Revelionul e dat” – set 120252336059660515, reclamă 120252336155900515
+  - TEST v6 D „≈320 lei de persoană” – set 120252336060280515, reclamă 120252336158430515
+- Plan: 4 zile (~180 lei). Se oprește orice variantă ajunsă la 60 lei fără conversații; câștigătoarea primește tot bugetul până pe ~6 dec. Metrici: cost pe conversație, conversații despre date libere, rezervări.
+- Datele libere (11–13, 18–20 dec) sunt cele din 14 nov – de verificat în Booking/Airbnb.
