@@ -86,5 +86,5 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - Regula „nu se publică nimic în afară de last minute 13–15 nov” a expirat; utilizatorul a cerut pe 19 nov să se publice zilnic (story-uri, reel-uri, Facebook, TikTok).
 - Calendar: `2026-11/CALENDAR-POSTARI.md`. Story-uri gata, cu muzică: `2026-11/promo/stories_v6/S1–S5`.
 - 19 nov publicat de Claude: reel v6 A pe Instagram (media 18135249013685173), story S2 „liber 11–13 / 18–20 dec”, postare foto pe pagina de Facebook (205246946322089_1814740777324277).
-- Rutină zilnică programată la 9:38 (ora României): publică după calendar și trimite briefing despre reclame.
+- Rutina zilnică automată NU e activă: programarea a fost refuzată de setările de permisiuni (19 nov). Postările din calendar se fac la cerere, în sesiune.
 - TikTok: contul nu e conectat în Higgsfield (singura cale de publicare); necesită autorizarea utilizatorului. Story pe Facebook nu se poate prin API.
