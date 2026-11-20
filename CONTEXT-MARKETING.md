@@ -95,3 +95,4 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - În răspunsurile trimise apare oferta „27–30 decembrie” – de confirmat dacă e liber (contextul vechi spunea „Crăciun ocupat”).
 - Prețul în săptămână (1.500 lei/noapte) e comunicat clienților ca „valabil până la 1 aprilie”.
 - 20 nov publicat: story S1 Instagram, postare foto plasă pe Instagram (18105239489545501) și Facebook (205246946322089_1816430433821978).
+- 27–30 dec (dum–mie, 3 nopți) LIBER, 4.500 lei toată cabana (confirmat de utilizator 20 nov). Publicat 20 nov: story S6, reel v6 E pe Instagram (18094375763495812), postare Facebook (205246946322089_1816790467119308). TikTok: sesiune pregătită (media Higgsfield 0559ff9b-84c0-4675-bdcc-22aa7240e385), așteaptă formularul utilizatorului.
