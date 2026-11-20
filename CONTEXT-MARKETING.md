@@ -88,3 +88,10 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - 19 nov publicat de Claude: reel v6 A pe Instagram (media 18135249013685173), story S2 „liber 11–13 / 18–20 dec”, postare foto pe pagina de Facebook (205246946322089_1814740777324277).
 - Rutina zilnică automată NU e activă: programarea a fost refuzată de setările de permisiuni (19 nov). Postările din calendar se fac la cerere, în sesiune.
 - TikTok: conectat în Higgsfield pe 19 nov (connector e343f342-9baa-4cce-941a-5762d10100bd, contul cabanei). Publicarea cere formularul TikTok (widget), care NU apare în aplicația Claude Code de pe telefon, doar pe claude.ai în browser pe calculator. Clip gata în Higgsfield: media 098cc08c-a2ec-4191-b37a-55585d62e63c (promo_v6_A_tiktok.mp4). Primul reel pe TikTok încă nepublicat (19 nov seara: amânat). Higgsfield nu poate importa de pe raw.githubusercontent.com (content-type greșit) – merge prin cdn.jsdelivr.net/gh/... pentru fișiere sub 20 MB. Story pe Facebook nu se poate prin API.
+
+## Stare 20 nov 2026
+- Confirmat de utilizator (20 nov): 11–13 și 18–20 dec sunt LIBERE.
+- WhatsApp 18–20 nov: ~9 conversații noi; majoritatea întreabă de Revelion (30 dec – 6 ian, ocupat). Una a venit din TEST v6 B (18 nov).
+- În răspunsurile trimise apare oferta „27–30 decembrie” – de confirmat dacă e liber (contextul vechi spunea „Crăciun ocupat”).
+- Prețul în săptămână (1.500 lei/noapte) e comunicat clienților ca „valabil până la 1 aprilie”.
+- 20 nov publicat: story S1 Instagram, postare foto plasă pe Instagram (18105239489545501) și Facebook (205246946322089_1816430433821978).
