@@ -78,6 +78,8 @@ if V == "B":
     m1 = [("LIBER 11–13 DECEMBRIE", 84, AC, FB), ("cabană întreagă · 14 persoane", 46, WH, FS)]
 elif V == "C":
     m1 = [("Revelionul e dat.", 84, WH, FB), ("11–13 dec e LIBER.", 84, AC, FB)]
+elif V == "E":
+    m1 = [("LIBER 27–30 DECEMBRIE", 82, AC, FB), ("chiar înainte de Revelion", 50, WH, FS)]
 elif V == "D":
     m1 = [("≈ 320 lei de persoană", 80, AC, FB), ("weekend cu saună + ciubăr", 50, WH, FS)]
 else:
@@ -86,7 +88,7 @@ MSGS = [(0.15, t_cut(2) - 0.15, m1),
         (t_cut(2) + 0.15, t_cut(5) - 0.15, [("Toată cabana e a voastră", 72, WH, FB), ("până la 14 persoane · 5 dormitoare", 46, WH, FS)]),
         (t_cut(5) + 0.15, t_cut(9) - 0.15, [("Saună + ciubăr incluse", 72, WH, FB), ("Beliș, Apuseni · 1h30 de Cluj", 46, WH, FS)]),
         (t_cut(9) + 0.15, t_cut(11) - 0.15, [("4.500 lei", 104, AC, FB), ("weekend vineri–duminică", 46, WH, FS)]),
-        (t_cut(11) + 0.15, T - 0.1, [("Libere 11–13 și 18–20 dec", 64, AC, FB), ("Scrie-ne pe WhatsApp", 56, WH, FB),
+        (t_cut(11) + 0.15, T - 0.1, [(("Libere 27–30 dec" if V == "E" else "Libere 11–13 și 18–20 dec"), 64, AC, FB), ("Scrie-ne pe WhatsApp", 56, WH, FB),
                                      ("0733 117 686", 56, WH, FB)])]
 fonts = {}
 def font(p, s):
