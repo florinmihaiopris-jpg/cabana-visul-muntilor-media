@@ -86,7 +86,7 @@ Rezumat pentru orice sesiune nouă. Actualizat: 11 nov 2026.
 - Regula „nu se publică nimic în afară de last minute 13–15 nov” a expirat; utilizatorul a cerut pe 19 nov să se publice zilnic (story-uri, reel-uri, Facebook, TikTok).
 - Calendar: `2026-11/CALENDAR-POSTARI.md`. Story-uri gata, cu muzică: `2026-11/promo/stories_v6/S1–S5`.
 - 19 nov publicat de Claude: reel v6 A pe Instagram (media 18135249013685173), story S2 „liber 11–13 / 18–20 dec”, postare foto pe pagina de Facebook (205246946322089_1814740777324277).
-- Rutina zilnică automată NU e activă: programarea a fost refuzată de setările de permisiuni (19 nov). Postările din calendar se fac la cerere, în sesiune.
+- Rutina zilnică automată ACTIVĂ din 25 nov, 9:38 ora României (sarcina „Marketing zilnic cabana”, aprobată de utilizator pe 24 nov).
 - TikTok: conectat în Higgsfield pe 19 nov (connector e343f342-9baa-4cce-941a-5762d10100bd, contul cabanei). Publicarea cere formularul TikTok (widget), care NU apare în aplicația Claude Code de pe telefon, doar pe claude.ai în browser pe calculator. Clip gata în Higgsfield: media 098cc08c-a2ec-4191-b37a-55585d62e63c (promo_v6_A_tiktok.mp4). Primul reel pe TikTok încă nepublicat (19 nov seara: amânat). Higgsfield nu poate importa de pe raw.githubusercontent.com (content-type greșit) – merge prin cdn.jsdelivr.net/gh/... pentru fișiere sub 20 MB. Story pe Facebook nu se poate prin API.
 
 ## Stare 20 nov 2026

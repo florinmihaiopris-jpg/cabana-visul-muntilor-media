@@ -19,7 +19,9 @@ Nu se poate prin API: story pe Facebook, reel video pe Facebook, TikTok (până 
 | Vin 27 nov | Story S3 | – | – |
 | Sâm 28 nov | Story S2 | – | – |
 | Dum 29 nov | Reel nou (din filmările proprietarului, dacă vin) / v6 C | Foto | reel |
-| 30 nov – 10 dec | story zilnic, rotit S1–S5; reel la 3 zile; din 4 dec „ultimul weekend liber” dacă 11–13 se ocupă | foto la 3 zile | reel la 3 zile |
+| 30 nov – 10 dec | story zilnic, rotit S1–S5 + S6 (27–30 dec, `S6_27_30_dec_now.mp4`) la 2 zile; reel la 3 zile; din 4 dec „ultimul weekend liber” dacă 11–13 se ocupă | foto la 3 zile | reel la 3 zile |
 | 12–13 dec | Story-uri cu ianuarie–februarie (după ce proprietarul confirmă datele) | | |
 
 Regulă: dacă un weekend se ocupă, se scoate imediat din story-uri, postări și reclame.
+
+Actualizare 24 nov: 27–30 dec e liber (4.500 lei) → story S6 și reel `promo_v6_E.mp4` intră în rotație (reel E la fiecare a doua postare de reel). 21–24 nov nu s-a publicat nimic (nu exista rutina). Rutina automată rulează zilnic la 9:38 din 25 nov.
