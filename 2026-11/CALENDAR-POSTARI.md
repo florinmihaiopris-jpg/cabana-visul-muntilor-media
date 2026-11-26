@@ -25,3 +25,7 @@ Nu se poate prin API: story pe Facebook, reel video pe Facebook, TikTok (până 
 Regulă: dacă un weekend se ocupă, se scoate imediat din story-uri, postări și reclame.
 
 Actualizare 24 nov: 27–30 dec e liber (4.500 lei) → story S6 și reel `promo_v6_E.mp4` intră în rotație (reel E la fiecare a doua postare de reel). 21–24 nov nu s-a publicat nimic (nu exista rutina). Rutina automată rulează zilnic la 9:38 din 25 nov.
+
+## Din 26 nov: doar organic (decizia utilizatorului – nu se mai plătesc reclame Meta)
+Ritm zilnic (rutina de la 9:38): Instagram story în fiecare zi (rotație S1, S2, S3, S4, S5, S6); reel pe Instagram la 2 zile (rotație v6 A, B, D, E); postare foto pe Facebook în fiecare zi; Google Business luni și joi.
+Manual, de utilizator: TikTok (formular), OLX (anunț reînnoit), grupuri de Facebook de cabane/turism Cluj, răspuns la comentarii și DM.
